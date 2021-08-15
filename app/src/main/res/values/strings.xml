@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lattice</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="full_name">Full Name*</string>
+    <string name="gender">Gender*</string>
+    <string name="dob">DOB*</string>
+    <string name="address_line_1">Address Line 1*</string>
+    <string name="address_line_2">Address Line 2</string>
+    <string name="pincode">Pincode*</string>
+    <string name="check">Check</string>
+    <string name="state">State*</string>
+    <string name="district">District*</string>
+    <string name="register">Register</string>
+    <string name="show_result">Show Result</string>
+    <string name="city_name">City Name</string>
+    <string name="temp_in_c">Temp. in Centigrade :</string>
+    <string name="temp_in_f">Temp. in Fahrenheit :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="latitude">Latitude :</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668242862518",
+    "project_id": "lattice-c8028",
+    "storage_bucket": "lattice-c8028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668242862518:android:14345fbdc9b67d7980e117",
+        "android_client_info": {
+          "package_name": "com.example.lattice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668242862518-jqs92mkrqprmpeohi3llsmdfqlo6202v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5U4srahNkgizf3JlE21wnsy29kUIDq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668242862518-jqs92mkrqprmpeohi3llsmdfqlo6202v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
